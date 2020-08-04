@@ -9,9 +9,9 @@ Portfólio de projetos (Data science)
 # Elcio Gustavo
 <sub>*Engenheiro de produção & Data Scientist*</sub>
 
-Engenheiro de produção, com conhecimento em melhoria continua e experiência em qualidade e planejamento de cadeia logística. Vasta vivência em analise de causa para solução de problemas estruturado em metodologias ágil e sixsigmas. Participação efetiva em diferentes abordagens de projetos com analise e manipulação de dados para gestão de indicadores estruturando planejamentos estratégicos, buscando sempre pensar de forma inovadora e analitica com ferramentas de estatisticas de programação(python / pandas) aplicando os conceitos de datascience.
+Engenheiro de produção, com conhecimento em melhoria continua e experiência de planejamento e cadeia logística(supply chain) com perfil analitico voltado a analises de causa para solução de problemas estruturado em metodologias ágil e sixsigmas. Participação efetiva em diferentes abordagens de projetos com analise e manipulação de dados para gestão e construção de indicadores estratégico de forma inovadora e analitica, explorando os conceitos em metodos estatistico com auxilio de skills(Power BI /python/ pandas) através de abordagens de datascience para gerar insigths para tomadas de decisão de negocio.
 
-**Background in:** Python, Data science e Supplychain.
+**Background in:** Power BI, Xls, python, Data science e Supplychain.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/elcio-gustavo-soares-de-araujo-74a22068/)
