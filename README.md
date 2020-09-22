@@ -20,6 +20,7 @@ Engenheiro de produção, com conhecimento em melhoria continua e experiência d
 
 ## Projetos:
 * **[PYTHON] Mudança de mentalidade para análise de negócios:** https://bit.ly/2Z2VQwL
+* **[Pdfplumber] Transformando PDF em dataset:** https://bit.ly/3kCWGJ0
 
 
 ---
