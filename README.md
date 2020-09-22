@@ -15,7 +15,7 @@ Engenheiro de produção, com conhecimento em melhoria continua e experiência d
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/elcio-gustavo-soares-de-araujo-74a22068/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@e.gustavosoares20)
 
 
 ## Projetos:
