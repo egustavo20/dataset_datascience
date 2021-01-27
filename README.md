@@ -7,9 +7,9 @@ Portfólio de projetos (Data science)
 </p>
 
 # Elcio Gustavo
-<sub>*Engenheiro de produção & Data Scientist*</sub>
+<sub>*Engenheiro de produção & Student Data Scientist*</sub>
 
-Engenheiro de produção, com conhecimento em melhoria continua e experiência de planejamento e cadeia logística(supply chain) com perfil analitico voltado a analises de causa para solução de problemas estruturado em metodologias ágil e sixsigmas. Participação efetiva em diferentes abordagens de projetos com analise e manipulação de dados para gestão e construção de indicadores estratégico de forma inovadora e analitica, explorando os conceitos em metodos estatistico com auxilio de skills(Power BI /python/ pandas) através de abordagens de datascience para gerar insights para tomadas de decisão de negócios.
+Engenheiro de produção, com conhecimento em melhoria continua, perfil analitico voltado a analises de causa para solução de problemas estruturado em metodologias ágil e sixsigmas. Participação efetiva em diferentes abordagens de projetos com analise e manipulação de dados para gestão e construção de indicadores estratégico de forma inovadora, explorando os conceitos em metodos estatistico com auxilio de skills(Python/OpenCV/PowerBI) através de abordagens de datascience para gerar insights para tomadas de decisão de negócios.
 
 **Background in:**  Python, Power BI, Data science e Planejamento estratégico.
 
@@ -18,7 +18,7 @@ Engenheiro de produção, com conhecimento em melhoria continua e experiência d
 * [Medium](https://medium.com/@e.gustavosoares20)
 
 
-## Projetos:
+## Aplicações & Projetos:
 * **[PYTHON] Mudança de mentalidade para análise de negócios:** https://bit.ly/2Z2VQwL
 * **[Pdfplumber] Transformando PDF em dataset:** https://bit.ly/3kCWGJ0
 * **Limpando_&_Tratando_ Cloud_BD Gmail:** https://bit.ly/2XvAHdo
