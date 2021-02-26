@@ -15,7 +15,7 @@ Engenheiro de produção, com conhecimento em melhoria contínua, perfil analít
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/elcio-gustavo-soares-de-araujo-74a22068/)
-* [Medium](https://medium.com/@e.gustavosoares20)
+* [Medium](https://e-gustavosoares20.medium.com/)
 
 ## Projetos Datascience:
 * **[PROJETO] Analisando os Dados do Airbnb (Irlanda_Dublin):** https://bit.ly/2N9KtQi
