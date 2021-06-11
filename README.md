@@ -20,6 +20,7 @@ Engenheiro de produção, com conhecimento em melhoria contínua, perfil analít
 ## Projetos Datascience:
 * **[PROJETO] Analisando os Dados do Airbnb (Irlanda_Dublin):** https://bit.ly/2N9KtQi
 * **[PROJETO] Analisando dados de resposta ao consumidor e-commerce:** https://bit.ly/3pCCaKC
+* **[PROJETO] Estudando os dados da COVID-19:** https://bit.ly/3pHczBM
 ---
 ## Aplicações Python:
 * **[PYTHON] Mudança de mentalidade para análise de negócios:** https://bit.ly/2Z2VQwL
